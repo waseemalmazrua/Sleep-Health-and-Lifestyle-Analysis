@@ -29,3 +29,5 @@ The dataset contains **374 records** with the following features:
 - `numpy` – Numerical operations  
 - `matplotlib` & `seaborn` – Visualization  
 - `Jupyter Notebook` – Analysis environment
+
+- Google slides presentation Link : https://docs.google.com/presentation/d/1uruzX_iroLCIPnMW8MqZdxS-H-LfpoIrb8Cy7OWpKFU/edit?usp=sharing
